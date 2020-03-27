@@ -1,0 +1,7 @@
+Criar projeto node: npm init -y
+
+Abordagem de SPA- Single Page Aplications
+
+Criar aplicação React: npx create-react-app nomepasta
+
+npm start

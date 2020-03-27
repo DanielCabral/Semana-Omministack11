@@ -1,0 +1,42 @@
+1- Node e Express
+    1.1- Rotas e Recursos
+    1.2- Metodos HTTP
+    1.3- Tipos de parametros
+2- Utilizando o imsomnia
+3- Configurando Nodemon
+4- Diferenças enre bancos de dados
+    knex
+5- Configurando banco de dados
+6- Pensando nas entidades e funcionalidades.
+    Entidade
+        Ong
+        Casos
+    Funcionalidades
+        Login de ONG
+        Cadastro de ONG
+        Logout
+        Cadastro de casos
+        Listagem de casos
+        Deleção de casos
+        Listar todos os casos 
+        Entrar em contato com ongs
+
+http://knexjs.org
+Criar migrations
+
+criar json migrations em knexfile.js
+
+knex migrate:make nome_da_migrate
+
+useNullAsDefault: true abaixo das migrations
+
+npx knex migrate:latest
+npx knex migrate:rolback
+npx knex migrate:status
+
+
+
+7- Construção do backend
+8- Adicionando modulo CORS
+9- Enviando back-end ao Github
+
