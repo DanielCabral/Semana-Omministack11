@@ -1,0 +1,15 @@
+1- Limpando a estrutura
+ 
+2- Conceito do React
+    2.1- Componente
+    2.2- JSX(Javascript XML): Quando o html está escrito dentro de um código javascript.
+    2.3- Propriedades
+    2.4- Estado
+    2.5- Imutabilidade
+3- Pagina de Login
+4- Configurando rotas
+5- Cadastro de ongs
+6- Listagem de casos
+7- Cadastro de novo caso
+8- Conectando aplicação a API
+9- Enviar projeto ao Github

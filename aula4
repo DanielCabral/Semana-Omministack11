@@ -1,0 +1,23 @@
+1- Instalando Expo
+2- Criando projeto React Native
+
+3- Executando Projeto
+	3.1- No celular
+	3.2- Emuladores
+	3.3- Expo Snack
+4- Diferenças para ReactJS
+	4.1- Elementos HTML
+	4.2- Semântica
+	4.3- Estilização
+		4.3.1- Flexbox
+		4.3.2- Propriedades
+		4.3.3- Herança de estilos
+		4.3.4- Estilização Propria
+5- Estrutura de pastas
+6- Icone e SplashScreen
+7- Configuração de navegação
+8- Páginas de casos
+9- Detalhe do caso
+10- Abrindo Whatsapp & Email-
+11- Conexão com API
+12- Enviado projeto ao Github
